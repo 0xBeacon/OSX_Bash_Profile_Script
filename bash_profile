@@ -267,5 +267,5 @@ httpHeaders () { /usr/bin/curl -I -L $@ ; }             # httpHeaders:      Grab
 #   10.  SCREENFETCH
 #   ---------------------------------------
 
-alias screenfetch=~/.screenfetch-dev
+alias screenfetch=~/screenfetch-dev
 screenfetch
